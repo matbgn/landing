@@ -1,0 +1,16 @@
+.btn-primary {
+  margin: 0 auto;
+  display: block;
+  width: 150px;
+  text-align: center;
+  color: #212529;
+  background-color: #ffc107;
+  border-color: #ffc107;
+  border-radius: 5px;
+  padding: 15px 25px;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: #d6a000;
+}

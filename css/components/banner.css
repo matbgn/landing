@@ -1,0 +1,13 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../images/header-background.jpg");
+  padding: 200px 50px;
+  color: white;
+}
+
+.banner p {
+  padding-bottom: 30px;
+}
+
+.banner btn-primary {
+  margin: 0 auto;
+}
